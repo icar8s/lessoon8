@@ -1,0 +1,29 @@
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\bin\Debug\net7.0\MyToDoList.exe
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\bin\Debug\net7.0\MyToDoList.deps.json
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\bin\Debug\net7.0\MyToDoList.runtimeconfig.json
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\bin\Debug\net7.0\MyToDoList.dll
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\bin\Debug\net7.0\MyToDoList.pdb
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\MyToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\MyToDoList.AssemblyInfoInputs.cache
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\MyToDoList.AssemblyInfo.cs
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\MyToDoList.csproj.CoreCompileInputs.cache
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\MyToDoList.dll
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\refint\MyToDoList.dll
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\MyToDoList.pdb
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\MyToDoList.genruntimeconfig.cache
+C:\Users\iljap\Desktop\New folder (2)\MyToDoList\obj\Debug\net7.0\ref\MyToDoList.dll
+D:\TeachMeSkills\Lesson8\MyToDoList\bin\Debug\net7.0\MyToDoList.exe
+D:\TeachMeSkills\Lesson8\MyToDoList\bin\Debug\net7.0\MyToDoList.deps.json
+D:\TeachMeSkills\Lesson8\MyToDoList\bin\Debug\net7.0\MyToDoList.runtimeconfig.json
+D:\TeachMeSkills\Lesson8\MyToDoList\bin\Debug\net7.0\MyToDoList.dll
+D:\TeachMeSkills\Lesson8\MyToDoList\bin\Debug\net7.0\MyToDoList.pdb
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\MyToDoList.csproj.AssemblyReference.cache
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\MyToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\MyToDoList.AssemblyInfoInputs.cache
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\MyToDoList.AssemblyInfo.cs
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\MyToDoList.csproj.CoreCompileInputs.cache
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\MyToDoList.dll
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\refint\MyToDoList.dll
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\MyToDoList.pdb
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\MyToDoList.genruntimeconfig.cache
+D:\TeachMeSkills\Lesson8\MyToDoList\obj\Debug\net7.0\ref\MyToDoList.dll
